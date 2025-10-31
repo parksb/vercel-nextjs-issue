@@ -8,6 +8,11 @@
     "start": "next start",
     "lint": "eslint"
   },
+  "browserslist": [
+    "defaults",
+    "chrome >= 64",
+    "ios >= 16"
+  ],
   "dependencies": {
     "react": "19.2.0",
     "react-dom": "19.2.0",
